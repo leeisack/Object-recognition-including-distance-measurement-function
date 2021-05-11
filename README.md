@@ -10,7 +10,7 @@ Object recognition including distance measurement function without using ROS
 <Installation item>
   - The production purpose is for jetson-xavier, but the work was done on a different desktop, and for this desktop, I use two graphics cards of the gtx-1080.
   1. cuda driver 
-(Most of them recommend the driver version according to the performance of the graphics card, but if you install the latest driver because it is too high-performance, the cuda version may be set to a higher version. Please pay attention to the driver version and install it.
+    Most of them recommend the driver version according to the performance of the graphics card, but if you install the latest driver because it is too high-performance, the cuda version may be set to a higher version. Please pay attention to the driver version and install it.
   2. cuda
   3. cudnn
   4. zed sdk

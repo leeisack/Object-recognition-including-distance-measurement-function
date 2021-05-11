@@ -8,7 +8,8 @@ Object recognition including distance measurement function without using ROS
 ## Installation guide
 
 <Installation item>
-  - The production purpose is for jetson-xavier, but the work was done on a different desktop, and for this desktop, I use two graphics cards of the gtx-1080.
+The production purpose is for jetson-xavier, but the work was done on a different desktop, and for this desktop, I use two graphics cards of the gtx-1080.
+  
   1. cuda driver 
   2. cuda
   3. cudnn

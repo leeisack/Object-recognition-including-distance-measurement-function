@@ -28,3 +28,17 @@ In the model provided by Stereo Lab, learning is focused on cars and people, so 
 ------------------------
 ![Screenshot from 2021-05-11 14-36-42](https://user-images.githubusercontent.com/52061393/117764664-d6cbfb00-b267-11eb-84be-97bb153563a1.png)
 -------------------
+![Screenshot from 2021-05-12 15-02-35](https://user-images.githubusercontent.com/52061393/117932387-4101a000-b33b-11eb-9a42-d1fe8125333e.png)
+
+![Screenshot from 2021-05-12 15-02-59](https://user-images.githubusercontent.com/52061393/117932428-51197f80-b33b-11eb-9c80-8a97c826a031.png)
+
+![Screenshot from 2021-05-12 15-05-01](https://user-images.githubusercontent.com/52061393/117932446-57a7f700-b33b-11eb-92f2-fee4f912187c.png)
+
+
+![Screenshot from 2021-05-12 15-05-49](https://user-images.githubusercontent.com/52061393/117932450-5a0a5100-b33b-11eb-9259-2ab8b275ca52.png)
+
+![Screenshot from 2021-05-12 15-37-08](https://user-images.githubusercontent.com/52061393/117932470-5e366e80-b33b-11eb-84bc-88855bb2e9f3.png)
+
+![Screenshot from 2021-05-12 15-42-47](https://user-images.githubusercontent.com/52061393/117932490-64c4e600-b33b-11eb-825d-a06737e949fe.png)
+
+![Screenshot from 2021-05-12 15-46-27](https://user-images.githubusercontent.com/52061393/117932525-6bebf400-b33b-11eb-8c88-b0520a53408f.png)

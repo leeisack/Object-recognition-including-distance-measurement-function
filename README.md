@@ -19,9 +19,7 @@ The production purpose is for jetson-xavier, but the work was done on a differen
  ![117932428-51197f80-b33b-11eb-9c80-8a97c826a031](https://user-images.githubusercontent.com/52061393/117938177-b5d7d880-b341-11eb-8f53-3da4aa804d7b.png)
  </br>
 After installing the sdk, if you move to this place from the terminal, ZED_Diagnostic is executed.
-
 ![117932387-4101a000-b33b-11eb-9a42-d1fe8125333e](https://user-images.githubusercontent.com/52061393/117938332-df90ff80-b341-11eb-85c9-ee0f7a05b912.png)
-
 Then, you can see such a screen. It determines whether the CUDA version is correct for the installed sdk version, the camera is connected, or the graphics card is recognized.
   6. python
   7. pip

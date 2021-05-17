@@ -5,7 +5,6 @@ Object recognition including distance measurement function without using ROS
 
 ### Since the embedded PC installed on the drone is of low specification, the program should be made as light as possible, and for this reason, the gui has been removed as a result. But in the making process, I used the gui to check. I have committed both the version with and without the gui.
 ----------------------------
-# Writing...
 ## Installation guide
 
 <Installation item>
@@ -32,6 +31,12 @@ Then, you can see such a screen. It determines whether the CUDA version is corre
 ![117932446-57a7f700-b33b-11eb-92f2-fee4f912187c](https://user-images.githubusercontent.com/52061393/117938595-2da60300-b342-11eb-87c1-3cf1e284db92.png)
 
 
+---------------------------
+# Run
+$ python {filename}
+
+ex)
+$ python object_detection.py
 
 ---------------------------
 

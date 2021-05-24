@@ -53,3 +53,7 @@ In the model provided by Stereo Lab, learning is focused on cars and people, so 
 ![117932525-6bebf400-b33b-11eb-8c88-b0520a53408f](https://user-images.githubusercontent.com/52061393/117939524-1b789480-b343-11eb-8b2f-ede7e79b2948.png)
 --------------------
 
+## Output using no gui ver
+![Screen Shot 2021-05-24 at 10 01 43 AM](https://user-images.githubusercontent.com/52061393/119283141-1090fe80-bc77-11eb-8d9e-53c1dbef51d3.png)
+--------------
+
